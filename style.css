@@ -27,3 +27,13 @@ body{
     font-weight: 700;
     line-height: 78px;
 }
+
+::-webkit-scrollbar{
+    width: 7px;
+    height: 5px;
+
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #F44335;
+}
